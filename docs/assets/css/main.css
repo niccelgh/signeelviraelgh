@@ -79,6 +79,12 @@ footer {
     width: 100px;
 }
 
+.img-med {
+    margin: 5px;
+    border: 1px solid black;
+    width: 300px;
+}
+
 .img-full {
     margin: 5px;
     border: 1px solid black;
