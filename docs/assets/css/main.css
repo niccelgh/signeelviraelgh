@@ -36,6 +36,14 @@ h3 {
     text-align: center;    
 }
 
+#magazine {
+	width: 800px;
+	height: 400px;
+}
+#magazine .turn-page {
+	background-color:#ccc;
+}
+
 footer {
     border-top: 1px solid black;
     padding-top: 1vw;
