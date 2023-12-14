@@ -311,8 +311,8 @@ h3.archives, h3.resources {
 }
 
 .zen-resources {
-  background:  url('hairdresser.png') no-repeat 28% 95%;
-  background-size: 5em;
+  background:  url('hairdresser.png') no-repeat 100% 100%;
+  background-size: 20em;
   overflow: hidden;
 }
 
