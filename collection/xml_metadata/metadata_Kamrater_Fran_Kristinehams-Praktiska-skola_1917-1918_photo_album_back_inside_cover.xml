@@ -1,4 +1,36 @@
 <?xml version=“1.0” encoding=“utf-8”?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<author></author>
+<principal>Nicole Elgh</principal>
+<respStmt>
+<resp>original TEI encoding</resp>
+<persName>Nicole Elgh</persName>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher></publisher>
+<date>1892</date>
+<distributor></distributor>
+</publicationStmt>
+<sourceDesc>
+<p>
+The primary source of this file is:
+<ref></ref>
+</p>
+</sourceDesc>
+</fileDesc>
+<!--  This document has been encoded for   -->
+</teiHeader>
+<text>
+<front> </front>
+<body>
 <gimp-metadata>
 	<iptc-tag>
 		<tag-name>Iptc.Application2.DateCreated</tag-name>
@@ -552,3 +584,7 @@ P			<list-element>
 https://signeelviraelgharchive.omeka.net</tag-value>
 	</xmp-tag>
 </gimp-metadata>
+	</body>
+<back> </back>
+</text>
+</TEI>
