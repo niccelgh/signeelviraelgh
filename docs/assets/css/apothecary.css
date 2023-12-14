@@ -34,7 +34,7 @@ body:before {
   border-left: 45px solid #faf3e6;
   border-right: 45px solid #faf3e6;
   border-top: 45px solid transparent;
-  background: #f7644d url('img/logos/img-halftone.png') repeat;
+  background: #f7644d url('img-halftone.png') repeat;
   margin: 0 auto -45px;
 }
 
@@ -42,7 +42,7 @@ body:after {
   border-left: 7em solid #faf3e6;
   border-right: 7em solid #faf3e6;
   border-bottom: 10em solid transparent;
-  background: #ffb14d url('assets/img/logos/img-halftone.png') repeat;
+  background: #ffb14d url('img-halftone.png') repeat;
   margin: -10em auto 0;
 }
 
@@ -58,7 +58,7 @@ body:after {
   content: "";
   height: 20px;
   background: 
-    url('img/logos/img-lg-horiz-border.png') repeat-x 0 -2px;
+    url('img-lg-horiz-border.png') repeat-x 0 -2px;
   background-size: 40em;
   display: block;
 }
@@ -124,7 +124,7 @@ p {
   font-size: 1.12rem;
   letter-spacing: 0.1rem;
   font-weight: 700;
-  background: url('../img/logos/img-sprite.png') no-repeat center 0.25em;
+  background: url('img-sprite.png') no-repeat center 0.25em;
   background-size: 25rem;
   margin-bottom: 1.3em;
 }
