@@ -24,7 +24,7 @@ body {
 }
 
 body:before, body:after {
-  content: 'test text';
+  content: '';
   display: block;
   width: 0; 
   height: 0; 
