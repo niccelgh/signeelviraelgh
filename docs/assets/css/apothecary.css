@@ -138,8 +138,8 @@ p {
   margin-bottom: 0em;
   letter-spacing: 0.05rem;
   line-height: 1.275em;
-  background: url('school.jpg') no-repeat center 20em;
-  background-size: 1.45em;
+  background: url('school.jpg') no-repeat center .75em;
+  background-size: 15em;
 }
 
 .preamble {
