@@ -124,7 +124,7 @@ p {
   font-size: 1.12rem;
   letter-spacing: 0.1rem;
   font-weight: 700;
-  background: url('img/logos/img-sprite.png') no-repeat center 0.25em;
+  background: url('../img/logos/img-sprite.png') no-repeat center 0.25em;
   background-size: 25rem;
   margin-bottom: 1.3em;
 }
