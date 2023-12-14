@@ -7,9 +7,11 @@
       </title>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
       <link rel="stylesheet" href="assets/css/apothecary.css">
+      <link rel="stylesheet" type="text/css" href="turn.min.css">
       <script src="https://use.typekit.net/xtk3kmd.js"></script>
       <script>try{Typekit.load();}catch(e){}</script>
       <script type="text/javascript" src="jquery/jquery-3.7.1.min.js"></script>
+      <script src="turn.min.js"></script>
    </head>
    <body>
 	   <section class="intro" id="zen-intro">
@@ -32,11 +34,11 @@
 	   </section>
       <main id="manuscript">
          <div class="page-wrapper">
-		<a href="https://online.flippingbook.com/view/804720229/" class="fbo-embed" data-fbo-id="8dcd89687d" data-fbo-ratio="3:2" data-fbo-lightbox="yes" data-fbo-width="100%" data-fbo-height="auto" data-fbo-version="1" style="max-width: 100%">Kamrater Fran Kristinehams-Praktiska-skola 1917-1918 photo …</a><script async defer src="https://online.flippingbook.com/EmbedScriptUrl.aspx?m=redir&hid=804720229"></script>
-		 <div id="flipbook">
-			<!— Load the content here-->
+		<div id="flipbook">
+    			<!-- Content of the flipbook goes here -->
 		</div>
-		
+		 
+		<a href="https://online.flippingbook.com/view/804720229/" class="fbo-embed" data-fbo-id="8dcd89687d" data-fbo-ratio="3:2" data-fbo-lightbox="yes" data-fbo-width="100%" data-fbo-height="auto" data-fbo-version="1" style="max-width: 100%">Kamrater Fran Kristinehams-Praktiska-skola 1917-1918 photo …</a><script async defer src="https://online.flippingbook.com/EmbedScriptUrl.aspx?m=redir&hid=804720229"></script>
             <div class="row">
                <div class="col-sm">
                   <article id="details">
@@ -57,8 +59,12 @@
             </div>
          </div>
       </footer>
-	   
 	   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 	   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	   <script>
+    			$(document).ready(function() {
+        		$("#flipbook").turn();
+    			});
+	   </script>
    </body>
 </html>
