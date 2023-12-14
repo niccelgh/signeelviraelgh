@@ -24,7 +24,7 @@ body {
 }
 
 body:before, body:after {
-  content: '';
+  content: 'test text';
   display: block;
   width: 0; 
   height: 0; 
@@ -34,7 +34,7 @@ body:before {
   border-left: 45px solid #faf3e6;
   border-right: 45px solid #faf3e6;
   border-top: 45px solid transparent;
-  background: #f7644d url('img-halftone.png') repeat;
+  background: #073763 url('img-halftone.png') repeat;
   margin: 0 auto -45px;
 }
 
