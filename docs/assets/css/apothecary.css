@@ -652,7 +652,7 @@ footer a:hover, footer a:focus {
     margin-top: 0.85em;
     margin-bottom: 0em;
     line-height: 1.275em;
-    background: url('hairdresser.png') no-repeat center top;
+    background: url('school.jpg') no-repeat center top;
     background-size: 1.65em;
   }
   
@@ -828,7 +828,7 @@ footer a:hover, footer a:focus {
   }
   
   footer:after {
-    background:  url('schoobooks.png') no-repeat center bottom;
+    background:  url('schoolbooks.png') no-repeat center bottom;
     background-size: 15em;
   }
   
