@@ -457,7 +457,7 @@ h3.archives, h3.resources {
 }
 
 .benefits:before {
-  content: 'Apply Liberally';
+  content: 'Archive Everything';
   font-size: 3em;
   position: absolute;
   bottom: 3.5rem;
@@ -470,7 +470,7 @@ h3.archives, h3.resources {
 }
 
 .benefits:after {
-  content: 'And Regularly!';
+  content: 'Archive Often!';
   font-size: 3em;
   position: absolute;
   bottom: -13rem;
@@ -489,7 +489,7 @@ h3.archives, h3.resources {
   height: 26em; 
   margin: 0 auto -26em;
   padding-bottom: 2em;
-  background:  url('img-look-right-sm.png') no-repeat center 7.75rem;
+  background:  url('schoolbooks.png') no-repeat center 7.75rem;
   background-size: 8.5rem;
 }
 
