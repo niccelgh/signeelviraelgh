@@ -90,7 +90,8 @@ p {
 .img-med {
     margin: 5px;
     border: 1px solid black;
-    width: 300px;
+    width: 500px;
+    text-align: center;
 }
 
 
@@ -185,7 +186,7 @@ p {
     margin: 5px;
     border: 1px solid black;
     width: 500px;
-    text-align: center
+    text-align: center;
 } 
 
 /* -------SIDEBAR ASIDE------- */
