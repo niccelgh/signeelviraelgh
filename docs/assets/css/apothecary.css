@@ -87,6 +87,13 @@ p {
   margin-bottom: 0.15em;
 }
 
+.img-med {
+    margin: 5px;
+    border: 1px solid black;
+    width: 300px;
+}
+
+
 /* -------INTRO SECTION------ */
 .intro {
   clear: both;
