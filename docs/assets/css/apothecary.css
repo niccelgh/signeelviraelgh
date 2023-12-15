@@ -184,7 +184,8 @@ p {
 .preamble img {
     margin: 5px;
     border: 1px solid black;
-    width: 300px;
+    width: 500px;
+    text-align: center
 } 
 
 /* -------SIDEBAR ASIDE------- */
