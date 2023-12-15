@@ -673,6 +673,14 @@ footer a:hover, footer a:focus {
   .summary p:nth-child(2) {
     text-align: center;
   }
+
+  .preamble h2 {
+    font-size: 3.75em;
+    padding-top: 4.25em;
+    margin-top: 0.85em;
+    margin-bottom: 0em;
+    line-height: 1.275em;
+  }
   
   .preamble h3 {
     font-size: 2.5em;
@@ -686,6 +694,7 @@ footer a:hover, footer a:focus {
     line-height: 1.25;
     letter-spacing: 0.025em;
   }
+
   
   .design-selection h3 {
     font-size: 2.6em;
