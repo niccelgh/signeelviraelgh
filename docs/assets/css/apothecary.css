@@ -181,6 +181,11 @@ p {
   text-transform: none;
 }
 
+.preamble img {
+    margin: 5px;
+    border: 1px solid black;
+    width: 300px;
+} 
 
 /* -------SIDEBAR ASIDE------- */
 .design-selection h3 {
