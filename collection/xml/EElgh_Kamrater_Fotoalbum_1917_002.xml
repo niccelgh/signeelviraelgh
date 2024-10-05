@@ -74,25 +74,25 @@
 		<tag-name>Iptc.Application2.Caption</tag-name>
 		<tag-mode>multi</tag-mode>
 		<tag-value>
-			Front inside pastedown endsheet of photo memory album "Kamrater fran Kristinehams-Praktiska-skola 1917-1918" belonging to Signe Elvira Elgh (b. 1900 Molkom, Sweden). Cream-colored textured pearl-finish paper with mottling from age.
+			Front inside pastedown endsheet of photo memory album "Kamrater från Kristinehams-Praktiska-skola 1917-1918" belonging to Signe Elvira Elgh (b. 1900 Molkom, Sweden). Cream-colored textured pearl-finish paper with mottling from age.
 		</tag-value>
 	</iptc-tag>
 	<iptc-tag>
 		<tag-name>Iptc.Application2.Keywords</tag-name>
 		<tag-mode>single</tag-mode>
-		<tag-value>Photo album, memory album, Signe Elvira Elgh, 1900, 1917, 1918, Kristinehamn, Praktiskaskola, Grythyttan, Loka, Systrarna Hallberg, Amanda Lundback</tag-value>
+		<tag-value>Photo album, memory album, Signe Elvira Elgh, 1900, 1917, 1918, Kristinehamn, Praktiskaskola, Grythyttan, Loka, Systrarna Hallberg, Amanda Lundbäck</tag-value>
 	</iptc-tag>
 	<iptc-tag>
 		<tag-name>Iptc.Application2.ObjectName</tag-name>
 		<tag-mode>multi</tag-mode>
-		<tag-value>Front inside pastedown endsheet of photo memory album "Kamrater fran Kristinehams-Praktiska-skola 1917-1918" belonging to Signe Elvira Elgh (b. 1900 Molkom, Sweden)
+		<tag-value>Front inside pastedown endsheet of photo memory album "Kamrater från Kristinehams-Praktiska-skola 1917-1918" belonging to Signe Elvira Elgh (b. 1900 Molkom, Sweden)
 		</tag-value>
 	</iptc-tag>
 	<iptc-tag>
 		<tag-name>Iptc.Application2.Copyright</tag-name>
 		<tag-mode>single</tag-mode>
 		<tag-value>
-			Copyright 1920, 2022, 2023 Signe Evira Elgh and successors.  Use permitted only in compliance with Fair Use (Sec. 107 USCA). For other uses please contact nicole.elgh@gmail.com
+			Copyright 1920, 2022, 2023 Signe Evira Elgh and successors. Use permitted only in compliance with Fair Use (Sec. 107 USCA). For other uses please contact nicole.elgh@gmail.com
 		</tag-value>
 	</iptc-tag>
 	<xmp-tag>
@@ -116,7 +116,7 @@
 	<xmp-tag>
 		<tag-name>Xmp.dc.subject</tag-name>
 		<tag-mode>multi</tag-mode>
-		<tag-value>Photo album, memory album, Signe Elvira Elgh, 1900, 1917, 1918, Kristinehamn, Praktiskaskola, Grythyttan, Loka, Systrarna Hallberg, Amanda Lundback</tag-value>
+		<tag-value>Photo album, memory album, Signe Elvira Elgh, 1900, 1917, 1918, Kristinehamn, Praktiskaskola, Grythyttan, Loka, Systrarna Hallberg, Amanda Lundbäck</tag-value>
 	</xmp-tag>
 	<xmp-tag>
 		<tag-name>Xmp.dc.rights</tag-name>
